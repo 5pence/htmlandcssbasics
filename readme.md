@@ -2,10 +2,10 @@
 
 ## Links
 
-[HTML Reference Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[CSS Reference Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-[Markdown Cheat Sheet](https://5pence.net/markdown-cheat-sheet/)
-[Handy Links](https://5pence.net/some-handy-links-for-basic-website-development/)
+- [HTML Reference Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS Reference Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [Markdown Cheat Sheet](https://5pence.net/markdown-cheat-sheet/)
+- [Handy Links](https://5pence.net/some-handy-links-for-basic-website-development/)
 
 ## Slides from lecture
 
