@@ -6,6 +6,9 @@
 - [CSS Reference Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [Markdown Cheat Sheet](https://5pence.net/markdown-cheat-sheet/)
 - [Handy Links](https://5pence.net/some-handy-links-for-basic-website-development/)
+- [Glass Button and Panel](https://codepen.io/kanishkkunal/pen/QWGzBwz)
+- [Spencer's Photography Site](https://spencerbarriball.com)
+- [Spencer's Coding Site](https://5pence.net/)
 
 ## Slides from lecture
 
@@ -17,4 +20,3 @@
 ![Silde 6](https://raw.githubusercontent.com/5pence/htmlandcssbasics/refs/heads/main/assets/slides/slides/slides.006.jpeg)
 ![Silde 7](https://raw.githubusercontent.com/5pence/htmlandcssbasics/refs/heads/main/assets/slides/slides/slides.007.jpeg)
 ![Silde 8](https://raw.githubusercontent.com/5pence/htmlandcssbasics/refs/heads/main/assets/slides/slides/slides.008.jpeg)
-
