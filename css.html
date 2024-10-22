@@ -4,35 +4,39 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Flexbox Layout Example</title>
-    <link rel="stylesheet" href="assets/css/style-css.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="css.html">CSS</a></li>
-            </ul>
-        </nav>
-    </header>
-    
-    <main>
-        <h1>Welcome to the Flexbox Layout</h1>
-        
-        <section class="columns">
-            <div class="box">Column 1</div>
-            <div class="box">Column 2</div>
-            <div class="box">Column 3</div>
-        </section>
+    <div class="wrapper">
+        <header id="main-header" class="site-header">
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="index.html">HTML</a></li>
+                    <li><a href="css.html">CSS</a></li>
+                </ul>
+            </nav>
+            <h1 class="header-title">Welcome to the Flexbox Layout</h1>
+            <p class="header-subtitle">Your guide to understanding the structure of a webpage</p>
+        </header>
 
-        <section class="content">
-            <p>This is some text that goes under the three columns. Flexbox makes it easy to create responsive layouts!</p>
-        </section>
-    </main>
+        <main>
+            <section class="content-section">
+                <h2>Flexbox Columns</h2>
+                <section class="columns">
+                    <div class="box">Column 1</div>
+                    <div class="box">Column 2</div>
+                    <div class="box">Column 3</div>
+                </section>
+            </section>
+
+            <section class="content-section">
+                <p>This is some text that goes under the three columns. Flexbox makes it easy to create responsive layouts!</p>
+            </section>
+        </main>
     
-    <footer>
-        <p>&copy; 2024 HTML Basics | Code Institute Course</p>
-    </footer>
-    
+        <footer id="main-footer">
+            <p>&copy; 2024 HTML Basics | Code Institute Course</p>
+        </footer>
+    </div>
 </body>
 </html>
