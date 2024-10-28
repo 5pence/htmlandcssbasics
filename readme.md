@@ -29,7 +29,7 @@
 <details>
 <summary>Bootstrap</summary>
 ![Slide 1](https://raw.githubusercontent.com/5pence/htmlandcssbasics/refs/heads/main/assets/slides/slides/bootstrap.001.jpeg)
-![Slide 12](https://raw.githubusercontent.com/5pence/htmlandcssbasics/refs/heads/main/assets/slides/slides/bootstrap.002.jpeg)
+![Slide 2](https://raw.githubusercontent.com/5pence/htmlandcssbasics/refs/heads/main/assets/slides/slides/bootstrap.002.jpeg)
 ![Slide 3](https://raw.githubusercontent.com/5pence/htmlandcssbasics/refs/heads/main/assets/slides/slides/bootstrap.003.jpeg)
 ![Slide 4](https://raw.githubusercontent.com/5pence/htmlandcssbasics/refs/heads/main/assets/slides/slides/bootstrap.004.jpeg)
 ![Slide 5](https://raw.githubusercontent.com/5pence/htmlandcssbasics/refs/heads/main/assets/slides/slides/bootstrap.005.jpeg)
