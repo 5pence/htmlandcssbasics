@@ -13,8 +13,8 @@
 - [Bootstrap](https://getbootstrap.com/)
 
 ## Slides from lecture
-<details>
-<summary>CSS Fundamentals</summary>
+
+### CSS Fundamentals
 
 ![Silde 1](https://raw.githubusercontent.com/5pence/htmlandcssbasics/refs/heads/main/assets/slides/slides/slides.001.jpeg)
 ![Silde 2](https://raw.githubusercontent.com/5pence/htmlandcssbasics/refs/heads/main/assets/slides/slides/slides.002.jpeg)
@@ -25,7 +25,7 @@
 ![Silde 7](https://raw.githubusercontent.com/5pence/htmlandcssbasics/refs/heads/main/assets/slides/slides/slides.007.jpeg)
 ![Silde 8](https://raw.githubusercontent.com/5pence/htmlandcssbasics/refs/heads/main/assets/slides/slides/slides.008.jpeg)
 
-<summary>Bootstrap</summary>
+### Bootstrap
 
 ![Slide 1](https://raw.githubusercontent.com/5pence/htmlandcssbasics/refs/heads/main/assets/slides/slides/bootstrap.001.jpeg)
 ![Slide 2](https://raw.githubusercontent.com/5pence/htmlandcssbasics/refs/heads/main/assets/slides/slides/bootstrap.002.jpeg)
