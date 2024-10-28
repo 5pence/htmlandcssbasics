@@ -24,9 +24,7 @@
 ![Silde 6](https://raw.githubusercontent.com/5pence/htmlandcssbasics/refs/heads/main/assets/slides/slides/slides.006.jpeg)
 ![Silde 7](https://raw.githubusercontent.com/5pence/htmlandcssbasics/refs/heads/main/assets/slides/slides/slides.007.jpeg)
 ![Silde 8](https://raw.githubusercontent.com/5pence/htmlandcssbasics/refs/heads/main/assets/slides/slides/slides.008.jpeg)
-</details>
 
-<details>
 <summary>Bootstrap</summary>
 
 ![Slide 1](https://raw.githubusercontent.com/5pence/htmlandcssbasics/refs/heads/main/assets/slides/slides/bootstrap.001.jpeg)
